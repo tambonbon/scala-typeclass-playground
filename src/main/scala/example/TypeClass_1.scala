@@ -21,7 +21,7 @@ object TypeClass_1 extends AnyFlatSpec with Matchers {
      * .. which is linked to "domain class" by type parameter
      */
     
-    trait Eq[A] {
+    trait Eq[A] { // this is a TypeClass
         def areEquals(a: A, b: A): Boolean
     }
 
@@ -77,4 +77,8 @@ object TypeClass_1 extends AnyFlatSpec with Matchers {
         // pairEquals(2, 7.2) mustBe(None)
     }
 
+    // Hacking for ContextBound with no more implicitly
+    object Eq {
+        def apply[A](implicit eq: Eq[A]): Eq[A] = eq
+    }
 }

@@ -11996,3 +11996,952 @@ WARNING: Unmatched cancel notification for request id 7372
 [0m2021.08.17 14:22:02 INFO  time: compiled root in 0.38s[0m
 [0m2021.08.17 14:22:16 INFO  compiling root (1 scala source)[0m
 [0m2021.08.17 14:22:16 INFO  time: compiled root in 0.35s[0m
+Aug 17, 2021 2:23:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7533
+Aug 17, 2021 2:23:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7546
+Aug 17, 2021 2:23:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7553
+Aug 17, 2021 2:23:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7560
+[0m2021.08.17 14:24:26 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:24:26 INFO  time: compiled root in 0.35s[0m
+[0m2021.08.17 14:24:36 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:24:36 INFO  time: compiled root in 0.35s[0m
+[0m2021.08.17 14:24:48 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:24:48 INFO  time: compiled root in 0.35s[0m
+[0m2021.08.17 14:25:09 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:25:09 INFO  time: compiled root in 0.38s[0m
+[0m2021.08.17 14:25:13 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:25:13 INFO  time: compiled root in 0.35s[0m
+Aug 17, 2021 2:25:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7873
+Aug 17, 2021 2:25:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7904
+[0m2021.08.17 14:25:36 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:25:36 INFO  time: compiled root in 0.35s[0m
+[0m2021.08.17 14:25:55 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:25:55 INFO  time: compiled root in 44ms[0m
+[0m2021.08.17 14:25:57 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:25:57 INFO  time: compiled root in 49ms[0m
+[0m2021.08.17 14:26:01 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:26:01 INFO  time: compiled root in 46ms[0m
+[0m2021.08.17 14:26:03 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:26:03 INFO  time: compiled root in 51ms[0m
+Aug 17, 2021 2:26:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8085
+[0m2021.08.17 14:26:05 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:26:05 INFO  time: compiled root in 50ms[0m
+Aug 17, 2021 2:26:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8093
+Aug 17, 2021 2:26:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8099
+Aug 17, 2021 2:26:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8106
+Aug 17, 2021 2:26:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8116
+Aug 17, 2021 2:26:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8123
+[0m2021.08.17 14:26:30 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:26:30 INFO  time: compiled root in 47ms[0m
+[0m2021.08.17 14:26:34 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:26:34 INFO  time: compiled root in 50ms[0m
+[0m2021.08.17 14:26:36 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:26:36 INFO  time: compiled root in 60ms[0m
+[0m2021.08.17 14:26:39 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:26:39 INFO  time: compiled root in 43ms[0m
+[0m2021.08.17 14:26:41 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:26:41 INFO  time: compiled root in 57ms[0m
+[0m2021.08.17 14:26:43 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:26:43 INFO  time: compiled root in 42ms[0m
+[0m2021.08.17 14:26:49 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:26:49 INFO  time: compiled root in 42ms[0m
+[0m2021.08.17 14:26:52 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:26:52 INFO  time: compiled root in 42ms[0m
+[0m2021.08.17 14:26:58 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:26:58 INFO  time: compiled root in 41ms[0m
+[0m2021.08.17 14:26:59 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:26:59 INFO  time: compiled root in 42ms[0m
+[0m2021.08.17 14:27:01 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:27:01 INFO  time: compiled root in 41ms[0m
+[0m2021.08.17 14:27:05 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:27:05 INFO  time: compiled root in 44ms[0m
+[0m2021.08.17 14:27:07 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:27:07 INFO  time: compiled root in 45ms[0m
+[0m2021.08.17 14:27:09 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:27:09 INFO  time: compiled root in 59ms[0m
+[0m2021.08.17 14:27:11 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:27:11 INFO  time: compiled root in 55ms[0m
+[0m2021.08.17 14:27:15 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:27:15 INFO  time: compiled root in 42ms[0m
+[0m2021.08.17 14:27:19 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:27:19 INFO  time: compiled root in 55ms[0m
+[0m2021.08.17 14:27:23 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:27:23 INFO  time: compiled root in 48ms[0m
+[0m2021.08.17 14:27:28 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:27:28 INFO  time: compiled root in 58ms[0m
+[0m2021.08.17 14:27:32 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:27:32 INFO  time: compiled root in 41ms[0m
+[0m2021.08.17 14:27:35 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:27:35 INFO  time: compiled root in 0.58s[0m
+[0m2021.08.17 14:27:43 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:27:43 INFO  time: compiled root in 0.55s[0m
+[0m2021.08.17 14:29:19 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:29:19 INFO  time: compiled root in 0.57s[0m
+[0m2021.08.17 14:29:25 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:29:25 INFO  time: compiled root in 0.5s[0m
+[0m2021.08.17 14:29:27 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:29:27 INFO  time: compiled root in 0.5s[0m
+[0m2021.08.17 14:29:30 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:29:30 INFO  time: compiled root in 0.5s[0m
+[0m2021.08.17 14:29:44 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:29:44 INFO  time: compiled root in 0.73s[0m
+[0m2021.08.17 14:29:46 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:29:46 INFO  time: compiled root in 0.5s[0m
+[0m2021.08.17 14:29:56 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:29:56 INFO  time: compiled root in 0.48s[0m
+[0m2021.08.17 14:30:35 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:30:35 INFO  time: compiled root in 0.56s[0m
+[0m2021.08.17 14:30:37 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:30:37 INFO  time: compiled root in 0.5s[0m
+[0m2021.08.17 14:30:43 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:30:43 INFO  time: compiled root in 0.69s[0m
+[0m2021.08.17 14:30:50 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:30:50 INFO  time: compiled root in 0.48s[0m
+[0m2021.08.17 14:31:01 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:31:01 INFO  time: compiled root in 0.48s[0m
+[0m2021.08.17 14:31:08 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:31:08 INFO  time: compiled root in 0.52s[0m
+[0m2021.08.17 14:31:11 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:31:11 INFO  time: compiled root in 0.47s[0m
+[0m2021.08.17 14:31:52 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:31:52 INFO  time: compiled root in 0.85s[0m
+[0m2021.08.17 14:31:56 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:31:56 INFO  time: compiled root in 0.7s[0m
+[0m2021.08.17 14:32:04 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:32:04 INFO  time: compiled root in 84ms[0m
+[0m2021.08.17 14:32:08 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:32:08 INFO  time: compiled root in 43ms[0m
+something's wrong: no file:///Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_1.scala in example.TypeClass_1.Eq[<error>]RangePosition(file:///Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_1.scala, 3033, 3033, 3045)
+[0m2021.08.17 14:32:12 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:32:12 INFO  time: compiled root in 85ms[0m
+[0m2021.08.17 14:32:16 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:32:16 INFO  time: compiled root in 0.67s[0m
+[0m2021.08.17 14:32:16 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:32:16 INFO  time: compiled root in 0.11s[0m
+Aug 17, 2021 2:32:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9353
+Aug 17, 2021 2:32:32 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Aug 17, 2021 2:32:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:419)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:140)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:965)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:813)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:23)
+
+[0m2021.08.17 14:32:43 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:32:43 INFO  time: compiled root in 71ms[0m
+[0m2021.08.17 14:32:50 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:32:50 INFO  time: compiled root in 45ms[0m
+[0m2021.08.17 14:32:56 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:32:56 INFO  time: compiled root in 74ms[0m
+[0m2021.08.17 14:33:01 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:33:01 INFO  time: compiled root in 39ms[0m
+[0m2021.08.17 14:33:03 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:33:03 INFO  time: compiled root in 45ms[0m
+[0m2021.08.17 14:33:09 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:33:09 INFO  time: compiled root in 42ms[0m
+[0m2021.08.17 14:33:11 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:33:11 INFO  time: compiled root in 46ms[0m
+[0m2021.08.17 14:33:14 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:33:14 INFO  time: compiled root in 42ms[0m
+[0m2021.08.17 14:33:19 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:33:19 INFO  time: compiled root in 41ms[0m
+[0m2021.08.17 14:33:20 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:33:20 INFO  time: compiled root in 39ms[0m
+[0m2021.08.17 14:33:22 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:33:22 INFO  time: compiled root in 50ms[0m
+[0m2021.08.17 14:33:25 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:33:25 INFO  time: compiled root in 70ms[0m
+[0m2021.08.17 14:33:33 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:33:33 INFO  time: compiled root in 0.57s[0m
+[0m2021.08.17 14:35:16 INFO  compiling root (1 scala source)[0m
+Aug 17, 2021 2:35:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9839
+[0m2021.08.17 14:35:16 INFO  time: compiled root in 0.63s[0m
+[0m2021.08.17 14:35:23 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:35:23 INFO  time: compiled root in 43ms[0m
+[0m2021.08.17 14:35:28 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:35:28 INFO  time: compiled root in 0.38s[0m
+[0m2021.08.17 14:35:30 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:35:30 INFO  time: compiled root in 0.38s[0m
+[0m2021.08.17 14:45:41 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:45:41 INFO  time: compiled root in 0.42s[0m
+[0m2021.08.17 14:45:45 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:45:45 INFO  time: compiled root in 0.38s[0m
+[0m2021.08.17 14:46:39 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:46:39 INFO  time: compiled root in 0.36s[0m
+[0m2021.08.17 14:46:51 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:46:51 INFO  time: compiled root in 0.38s[0m
+[0m2021.08.17 14:47:07 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:47:07 INFO  time: compiled root in 0.38s[0m
+[0m2021.08.17 14:47:14 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:47:14 INFO  time: compiled root in 0.38s[0m
+[0m2021.08.17 14:47:15 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:47:15 INFO  time: compiled root in 0.36s[0m
+Aug 17, 2021 2:47:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10320
+[0m2021.08.17 14:47:33 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:47:33 INFO  time: compiled root in 0.38s[0m
+[0m2021.08.17 14:47:46 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:47:46 INFO  time: compiled root in 0.38s[0m
+[0m2021.08.17 14:47:53 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:47:53 INFO  time: compiled root in 0.38s[0m
+[0m2021.08.17 14:48:04 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:48:04 INFO  time: compiled root in 0.58s[0m
+[0m2021.08.17 14:48:06 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:48:06 INFO  time: compiled root in 66ms[0m
+Aug 17, 2021 2:48:06 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Aug 17, 2021 2:48:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:88)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:139)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:136)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.factoryMeth(MetalsGlobal.scala:59)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:238)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:237)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:57)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:95)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:81)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$2.enterExistingSym(Global.scala:51)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:313)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:495)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:494)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.pluginsEnterSym(MetalsGlobal.scala:59)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:287)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1985)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1980)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2040)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1940)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5952)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:6041)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:6119)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$8(Typers.scala:3410)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3410)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5634)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5954)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:6041)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:112)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1354)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1347)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:671)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:820)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1239)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:403)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:58)
+
+Aug 17, 2021 2:48:07 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Aug 17, 2021 2:48:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:88)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:139)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:136)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.factoryMeth(MetalsGlobal.scala:59)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:238)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:237)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:57)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:95)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:81)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$2.enterExistingSym(Global.scala:51)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:313)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:495)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:494)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.pluginsEnterSym(MetalsGlobal.scala:59)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:287)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1985)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1980)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2040)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1940)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5952)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:6041)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:6119)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$8(Typers.scala:3410)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3410)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5634)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5954)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:6041)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:112)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1354)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1347)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:671)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:820)
+	at scala.meta.internal.pc.AutoImportsProvider.autoImports(AutoImportsProvider.scala:26)
+
+Aug 17, 2021 2:48:07 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Aug 17, 2021 2:48:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:88)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:139)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:136)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.factoryMeth(MetalsGlobal.scala:59)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:238)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:237)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:57)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:95)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:81)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$2.enterExistingSym(Global.scala:51)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:313)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:495)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:494)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.pluginsEnterSym(MetalsGlobal.scala:59)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:287)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1985)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1980)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2040)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1940)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5952)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:6041)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:6119)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$8(Typers.scala:3410)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3410)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5634)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5954)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:6041)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:112)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1354)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1347)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:671)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:820)
+	at scala.meta.internal.pc.AutoImportsProvider.autoImports(AutoImportsProvider.scala:26)
+
+[0m2021.08.17 14:48:08 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:48:08 INFO  time: compiled root in 37ms[0m
+Aug 17, 2021 2:49:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+java.util.concurrent.CompletionException: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:358)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:343)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:245)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:118)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:50)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:40)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:96)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:214)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:175)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:175)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:170)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:33)
+	at scala.collection.immutable.List.map(List.scala:293)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:29)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1339)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+Aug 17, 2021 2:49:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+java.util.concurrent.CompletionException: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:358)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:343)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:245)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:118)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:50)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:40)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:96)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:214)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:175)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:175)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:170)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:33)
+	at scala.collection.immutable.List.map(List.scala:293)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:29)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1339)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+Aug 17, 2021 2:49:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+java.util.concurrent.CompletionException: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:358)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:343)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:245)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:118)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:50)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:40)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:96)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:214)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:175)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:175)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:170)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:33)
+	at scala.collection.immutable.List.map(List.scala:293)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:29)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1339)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+Aug 17, 2021 2:49:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+java.util.concurrent.CompletionException: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:358)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:343)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:245)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:118)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:50)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:40)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:96)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:214)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:175)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:175)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:170)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:33)
+	at scala.collection.immutable.List.map(List.scala:293)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:29)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1339)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+Aug 17, 2021 2:49:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+java.util.concurrent.CompletionException: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:358)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:343)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:245)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:118)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:50)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:40)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:96)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:214)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:175)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:175)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:170)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:33)
+	at scala.collection.immutable.List.map(List.scala:293)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:29)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1339)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+Aug 17, 2021 2:49:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+java.util.concurrent.CompletionException: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:358)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:343)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:245)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:118)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:50)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:40)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:96)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:214)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:175)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:175)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:170)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:33)
+	at scala.collection.immutable.List.map(List.scala:293)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:29)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1339)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+Aug 17, 2021 2:49:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+java.util.concurrent.CompletionException: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:358)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:343)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:245)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:118)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:50)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:40)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:96)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:214)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:175)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:175)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:170)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:33)
+	at scala.collection.immutable.List.map(List.scala:293)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:29)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1339)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+Aug 17, 2021 2:49:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+java.util.concurrent.CompletionException: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: /Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_4_SyntaxModule.scala:19: error: expected identifier; obtained rbrace
+}
+^
+}
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:358)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:343)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:245)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:118)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:50)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:40)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:96)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:214)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:175)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:175)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:170)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:33)
+	at scala.collection.immutable.List.map(List.scala:293)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:29)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1339)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+[0m2021.08.17 14:49:33 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:49:33 INFO  time: compiled root in 43ms[0m
+[0m2021.08.17 14:49:43 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:49:43 INFO  time: compiled root in 0.44s[0m
+[0m2021.08.17 14:49:47 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:49:47 INFO  time: compiled root in 45ms[0m
+[0m2021.08.17 14:49:48 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:49:48 INFO  time: compiled root in 47ms[0m
+[0m2021.08.17 14:49:51 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:49:51 INFO  time: compiled root in 71ms[0m
+[0m2021.08.17 14:49:53 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:49:53 INFO  time: compiled root in 41ms[0m
+[0m2021.08.17 14:49:55 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:49:55 INFO  time: compiled root in 0.49s[0m
+[0m2021.08.17 14:50:18 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:50:18 INFO  time: compiled root in 0.47s[0m
+[0m2021.08.17 14:50:34 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:50:34 INFO  time: compiled root in 0.48s[0m
+[0m2021.08.17 14:50:42 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:50:42 INFO  time: compiled root in 0.67s[0m
+[0m2021.08.17 14:50:50 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:50:50 INFO  time: compiled root in 0.54s[0m
+[0m2021.08.17 14:50:52 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:50:52 INFO  time: compiled root in 0.46s[0m
+[0m2021.08.17 14:50:56 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:50:56 INFO  time: compiled root in 0.45s[0m
+[0m2021.08.17 14:51:01 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:51:01 INFO  time: compiled root in 0.65s[0m
+[0m2021.08.17 14:51:06 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:51:06 INFO  time: compiled root in 0.48s[0m
+[0m2021.08.17 14:51:10 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:51:10 INFO  time: compiled root in 0.5s[0m
+[0m2021.08.17 14:51:12 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:51:12 INFO  time: compiled root in 0.5s[0m
+[0m2021.08.17 14:51:16 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:51:16 INFO  time: compiled root in 0.47s[0m
+[0m2021.08.17 14:51:41 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:51:41 INFO  time: compiled root in 0.66s[0m
+[0m2021.08.17 14:52:08 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:52:08 INFO  time: compiled root in 0.57s[0m
+[0m2021.08.17 14:52:12 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:52:12 INFO  time: compiled root in 0.49s[0m
+[0m2021.08.17 14:52:16 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:52:16 INFO  time: compiled root in 0.47s[0m
+[0m2021.08.17 14:52:21 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:52:21 INFO  time: compiled root in 47ms[0m
+[0m2021.08.17 14:52:26 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:52:26 INFO  time: compiled root in 67ms[0m
+[0m2021.08.17 14:52:28 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:52:28 INFO  time: compiled root in 69ms[0m
+[0m2021.08.17 14:52:32 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:52:32 INFO  time: compiled root in 64ms[0m
+[0m2021.08.17 14:52:35 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:52:35 INFO  time: compiled root in 66ms[0m
+[0m2021.08.17 14:52:37 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:52:37 INFO  time: compiled root in 62ms[0m
+[0m2021.08.17 14:52:38 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:52:38 INFO  time: compiled root in 66ms[0m
+Aug 17, 2021 2:52:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11514
+[0m2021.08.17 14:52:39 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:52:39 INFO  time: compiled root in 60ms[0m
+Aug 17, 2021 2:52:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11524
+[0m2021.08.17 14:53:01 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:53:01 INFO  time: compiled root in 72ms[0m
+[0m2021.08.17 14:53:10 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:53:10 INFO  time: compiled root in 69ms[0m
+Aug 17, 2021 2:53:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11618
+[0m2021.08.17 14:53:16 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:53:16 INFO  time: compiled root in 0.11s[0m
+[0m2021.08.17 14:53:40 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:53:40 INFO  time: compiled root in 94ms[0m
+[0m2021.08.17 14:54:03 INFO  compiling root (2 scala sources)[0m
+[0m2021.08.17 14:54:03 INFO  time: compiled root in 0.62s[0m
+[0m2021.08.17 14:55:04 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:55:04 INFO  time: compiled root in 0.53s[0m
+[0m2021.08.17 14:55:14 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:55:14 INFO  time: compiled root in 0.53s[0m
+[0m2021.08.17 14:55:20 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:55:20 INFO  time: compiled root in 0.75s[0m
+[0m2021.08.17 14:55:22 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:55:22 INFO  time: compiled root in 92ms[0m
+[0m2021.08.17 14:55:24 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 14:55:24 INFO  time: compiled root in 0.53s[0m
+[0m2021.08.17 15:39:09 INFO  compiling root (1 scala source)[0m
+Aug 17, 2021 3:39:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12049
+[0m2021.08.17 15:39:09 INFO  time: compiled root in 0.43s[0m
+[0m2021.08.17 15:39:12 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:39:12 INFO  time: compiled root in 0.38s[0m
+[0m2021.08.17 15:41:53 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:41:53 INFO  time: compiled root in 0.42s[0m
+[0m2021.08.17 15:41:58 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:41:58 INFO  time: compiled root in 0.37s[0m
+[0m2021.08.17 15:42:17 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:42:17 INFO  time: compiled root in 0.36s[0m
+[0m2021.08.17 15:42:19 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:42:19 INFO  time: compiled root in 0.38s[0m
+[0m2021.08.17 15:42:25 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:42:25 INFO  time: compiled root in 0.35s[0m
+Aug 17, 2021 3:42:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12244
+[0m2021.08.17 15:42:43 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:42:43 INFO  time: compiled root in 0.37s[0m
+[0m2021.08.17 15:43:10 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:43:10 INFO  time: compiled root in 0.35s[0m
+[0m2021.08.17 15:43:12 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:43:12 INFO  time: compiled root in 0.39s[0m
+[0m2021.08.17 15:43:33 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:43:33 INFO  time: compiled root in 0.4s[0m
+[0m2021.08.17 15:43:53 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:43:53 INFO  time: compiled root in 0.42s[0m
+[0m2021.08.17 15:44:00 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:44:00 INFO  time: compiled root in 48ms[0m
+[0m2021.08.17 15:44:07 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:44:07 INFO  time: compiled root in 49ms[0m
+[0m2021.08.17 15:44:09 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:44:09 INFO  time: compiled root in 45ms[0m
+[0m2021.08.17 15:44:11 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:44:11 INFO  time: compiled root in 53ms[0m
+[0m2021.08.17 15:44:17 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:44:17 INFO  time: compiled root in 51ms[0m
+something's wrong: no file:///Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_5_ImplicitScope.scala in scala.math.Ordering[<error>]RangePosition(file:///Users/tammy/scalaProjects/scala-typeclass-playground/src/main/scala/example/TypeClass_5_ImplicitScope.scala, 482, 487, 505)
+[0m2021.08.17 15:44:22 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:44:22 INFO  time: compiled root in 63ms[0m
+[0m2021.08.17 15:44:32 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:44:32 INFO  time: compiled root in 44ms[0m
+Aug 17, 2021 3:44:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12821
+Aug 17, 2021 3:44:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12827
+Aug 17, 2021 3:44:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12832
+Aug 17, 2021 3:44:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12837
+Aug 17, 2021 3:44:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12851
+[0m2021.08.17 15:44:49 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:44:49 INFO  time: compiled root in 62ms[0m
+[0m2021.08.17 15:44:52 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:44:52 INFO  time: compiled root in 62ms[0m
+[0m2021.08.17 15:44:54 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:44:54 INFO  time: compiled root in 54ms[0m
+[0m2021.08.17 15:44:56 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:44:56 INFO  time: compiled root in 63ms[0m
+[0m2021.08.17 15:45:00 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:45:00 INFO  time: compiled root in 0.48s[0m
+[0m2021.08.17 15:45:15 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:45:15 INFO  time: compiled root in 0.51s[0m
+Aug 17, 2021 3:45:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12998
+[0m2021.08.17 15:45:42 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:45:42 INFO  time: compiled root in 0.52s[0m
+[0m2021.08.17 15:45:51 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:45:51 INFO  time: compiled root in 0.48s[0m
+[0m2021.08.17 15:45:55 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 15:45:55 INFO  time: compiled root in 0.49s[0m
+Aug 17, 2021 3:46:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13188
+Aug 17, 2021 3:46:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13195
+Aug 17, 2021 3:46:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13208
+Aug 17, 2021 3:46:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13218
+Aug 17, 2021 3:46:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13223
+Aug 17, 2021 3:46:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13230
+Aug 17, 2021 3:47:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13235
+[0m2021.08.17 16:04:29 INFO  compiling root (1 scala source)[0m
+[0m2021.08.17 16:04:29 INFO  time: compiled root in 0.78s[0m
