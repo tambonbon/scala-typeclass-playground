@@ -9,7 +9,9 @@ lazy val root = (project in file("."))
   .settings(
     name := "scala-typeclass-playground",
     libraryDependencies ++= Seq(
-      "org.scalatest" %% "scalatest" % "3.2.9"
+      "org.scalatest" %% "scalatest" % "3.2.9",
+      "org.typelevel" %% "simulacrum" % "1.0.1",
+      "org.typelevel" %% "cats-core" % "2.3.0"
     )
   )
 
