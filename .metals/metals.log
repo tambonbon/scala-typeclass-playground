@@ -14743,3 +14743,299 @@ WARNING: offset 6499, count -1, length 6566
 [0m2021.12.20 11:33:37 INFO  time: compiled root in 0.24s[0m
 [0m2021.12.20 11:43:00 INFO  compiling root (1 scala source)[0m
 [0m2021.12.20 11:43:02 INFO  time: compiled root in 1.75s[0m
+[0m2021.12.20 11:44:46 INFO  compiling root (1 scala source)[0m
+[0m2021.12.20 11:44:48 INFO  time: compiled root in 1.59s[0m
+[0m2021.12.20 11:44:49 INFO  compiling root (1 scala source)[0m
+[0m2021.12.20 11:44:51 INFO  time: compiled root in 1.72s[0m
+[0m2021.12.20 11:44:52 INFO  compiling root (1 scala source)[0m
+[0m2021.12.20 11:44:54 INFO  time: compiled root in 1.42s[0m
+[0m2021.12.20 12:31:56 INFO  running '/Users/tammy/Library/Java/JavaVirtualMachines/adopt-openjdk-11.0.10/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/metals4280260149525880081/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.12.20 12:31:57 INFO  [info] welcome to sbt 1.5.5 (AdoptOpenJDK Java 11.0.10)[0m
+[0m2021.12.20 12:31:57 INFO  [info] loading settings for project global-plugins from build.sbt ...[0m
+[0m2021.12.20 12:31:58 INFO  [info] loading global plugins from /Users/tammy/.sbt/1.0/plugins[0m
+[0m2021.12.20 12:32:00 INFO  [info] loading settings for project scala-typeclass-playground-build from plugins.sbt ...[0m
+[0m2021.12.20 12:32:00 INFO  [info] loading project definition from /Users/tammy/scalaProjects/scala-typeclass-playground/project[0m
+[0m2021.12.20 12:32:01 INFO  [success] Generated .bloop/scala-typeclass-playground-build.json[0m
+[0m2021.12.20 12:32:01 INFO  [success] Total time: 2 s, completed 20 Dec 2021, 12:32:02[0m
+[0m2021.12.20 12:32:01 INFO  [info] loading settings for project root from build.sbt ...[0m
+[0m2021.12.20 12:32:01 INFO  [info] set current project to scala-typeclass-playground (in build file:/Users/tammy/scalaProjects/scala-typeclass-playground/)[0m
+[0m2021.12.20 12:32:02 INFO  [success] Generated .bloop/root-test.json[0m
+[0m2021.12.20 12:32:02 INFO  [success] Generated .bloop/root.json[0m
+[0m2021.12.20 12:32:02 INFO  [success] Total time: 0 s, completed 20 Dec 2021, 12:32:02[0m
+[0m2021.12.20 12:32:03 INFO  time: ran 'sbt bloopInstall' in 6.96s[0m
+[0m2021.12.20 12:32:03 INFO  Disconnecting from Bloop session...[0m
+[0m2021.12.20 12:32:03 INFO  Shut down connection with build server.[0m
+[0m2021.12.20 12:32:03 INFO  Shut down connection with build server.[0m
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+[0m2021.12.20 12:32:03 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher7719144222267277754/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher7719144222267277754/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher7719144222267277754/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.20 12:32:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/tammy/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.12.20 12:32:03 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher1941215828853556406/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher1941215828853556406/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher1941215828853556406/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.20 12:32:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/tammy/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.12.20 12:32:03 INFO  time: Connected to build server in 0.17s[0m
+[0m2021.12.20 12:32:03 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.12.20 12:32:05 INFO  time: indexed workspace in 2.55s[0m
+[0m2021.12.20 12:32:07 INFO  no build target: using presentation compiler with only scala-library: 2.13.6[0m
+[0m2021.12.20 12:35:03 INFO  compiling root-test (1 scala source)[0m
+[0m2021.12.20 12:35:05 INFO  shutting down Metals[0m
+[0m2021.12.20 12:35:05 INFO  Shut down connection with build server.[0m
+[0m2021.12.20 12:35:05 INFO  Shut down connection with build server.[0m
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+Dec 20, 2021 12:35:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.MetalsBspException: BSP connection failed in the attempt to get: CompileResult.  Boxed InterruptedException
+java.util.concurrent.CompletionException: scala.meta.internal.metals.MetalsBspException: BSP connection failed in the attempt to get: CompileResult.  Boxed InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at scala.concurrent.BatchingExecutor$Batch.processBatch$1(BatchingExecutor.scala:67)
+	at scala.concurrent.BatchingExecutor$Batch.$anonfun$run$1(BatchingExecutor.scala:82)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:59)
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:875)
+	at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:110)
+	at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:107)
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:873)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: scala.meta.internal.metals.MetalsBspException: BSP connection failed in the attempt to get: CompileResult.  Boxed InterruptedException
+	at scala.meta.internal.metals.BuildServerConnection$$anonfun$1.applyOrElse(BuildServerConnection.scala:252)
+	at scala.meta.internal.metals.BuildServerConnection$$anonfun$1.applyOrElse(BuildServerConnection.scala:244)
+	at scala.concurrent.Future.$anonfun$recoverWith$1(Future.scala:417)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+	... 4 more
+
+[0m2021.12.20 12:35:29 INFO  Started: Metals version 0.10.9 in workspace '/Users/tammy/scalaProjects/scala-typeclass-playground' for client Visual Studio Code 1.63.1.[0m
+[0m2021.12.20 12:35:32 INFO  time: initialize in 2.79s[0m
+[0m2021.12.20 12:35:32 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher6472615315943023885/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher6472615315943023885/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher6472615315943023885/bsp.socket...
+[0m2021.12.20 12:35:33 INFO  skipping build import with status 'Installed'[0m
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.20 12:35:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/tammy/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.12.20 12:35:33 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher11500662791217751586/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher11500662791217751586/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher11500662791217751586/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.20 12:35:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/tammy/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.12.20 12:35:33 INFO  time: Connected to build server in 0.6s[0m
+[0m2021.12.20 12:35:33 INFO  Connected to Build server: Bloop v1.4.11[0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2021.12.20 12:35:39 INFO  time: indexed workspace in 5.74s[0m
+[0m2021.12.20 12:35:39 INFO  compiling root-test (1 scala source)[0m
+[0m2021.12.20 12:35:42 INFO  no build target: using presentation compiler with only scala-library: 2.13.6[0m
+Dec 20, 2021 12:35:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/taskFinish",
+  "params": {
+    "taskId": {
+      "id": "1"
+    },
+    "eventTime": 1640000139533,
+    "message": "Compiled \u0027root\u0027",
+    "status": 1,
+    "dataKind": "compile-report",
+    "data": {
+      "target": {
+        "uri": "file:/Users/tammy/scalaProjects/scala-typeclass-playground/?id\u003droot"
+      },
+      "errors": 0,
+      "warnings": 0,
+      "isNoOp": true,
+      "isLastCycle": true,
+      "clientDir": "file:///Users/tammy/scalaProjects/scala-typeclass-playground/.bloop/root/bloop-bsp-clients-classes/classes-Metals-3MctDsF0QreqZ2Al4CApcw\u003d\u003d/",
+      "analysisOut": "file:///Users/tammy/scalaProjects/scala-typeclass-playground/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.13.zip"
+    }
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.NullPointerException
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$3(Compilers.scala:235)
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$3$adapted(Compilers.scala:233)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$2(Compilers.scala:233)
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$2$adapted(Compilers.scala:232)
+	at scala.collection.mutable.HashSet.foreach(HashSet.scala:79)
+	at scala.meta.internal.metals.Compilers.didCompile(Compilers.scala:232)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$updateWorkspaceDirectory$10(MetalsLanguageServer.scala:407)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$updateWorkspaceDirectory$10$adapted(MetalsLanguageServer.scala:405)
+	at scala.meta.internal.metals.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$2(ForwardingMetalsBuildClient.scala:172)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$1(ForwardingMetalsBuildClient.scala:169)
+	at scala.meta.internal.metals.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$1$adapted(ForwardingMetalsBuildClient.scala:168)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.ForwardingMetalsBuildClient.buildTaskFinish(ForwardingMetalsBuildClient.scala:168)
+	... 16 more
+
+[0m2021.12.20 12:35:43 INFO  time: compiled root-test in 4.35s[0m
+[0m2021.12.20 12:36:43 INFO  compiling root (1 scala source)[0m
+[0m2021.12.20 12:36:43 INFO  time: compiled root in 0.47s[0m
+[0m2021.12.20 12:39:10 INFO  shutting down Metals[0m
+[0m2021.12.20 12:39:10 INFO  Shut down connection with build server.[0m
+[0m2021.12.20 12:39:10 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2021.12.20 14:31:51 INFO  Started: Metals version 0.10.9 in workspace '/Users/tammy/scalaProjects/scala-typeclass-playground' for client Visual Studio Code 1.63.2.[0m
+[0m2021.12.20 14:31:55 INFO  time: initialize in 3.87s[0m
+[0m2021.12.20 14:31:56 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher17074306079437856029/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m2021.12.20 14:31:57 INFO  skipping build import with status 'Installed'[0m
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher17074306079437856029/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher17074306079437856029/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.20 14:31:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/tammy/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.12.20 14:31:57 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher7171487303334479766/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher7171487303334479766/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/hr/6qt2knms3sdg61hlg9bvpl4h0000gq/T/bsp-launcher7171487303334479766/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.20 14:31:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/tammy/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.12.20 14:31:57 INFO  time: Connected to build server in 0.8s[0m
+[0m2021.12.20 14:31:57 INFO  Connected to Build server: Bloop v1.4.11[0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2021.12.20 14:32:04 INFO  time: indexed workspace in 7.01s[0m
+[0m2021.12.20 14:32:05 INFO  compiling root (1 scala source)[0m
+[0m2021.12.20 14:32:07 INFO  no build target: using presentation compiler with only scala-library: 2.13.6[0m
+Dec 20, 2021 2:32:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/taskFinish",
+  "params": {
+    "taskId": {
+      "id": "1"
+    },
+    "eventTime": 1640007126588,
+    "message": "Compiled \u0027root\u0027",
+    "status": 2,
+    "dataKind": "compile-report",
+    "data": {
+      "target": {
+        "uri": "file:/Users/tammy/scalaProjects/scala-typeclass-playground/?id\u003droot"
+      },
+      "errors": 1,
+      "warnings": 0,
+      "isNoOp": false,
+      "isLastCycle": true
+    }
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.NullPointerException
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$1(Compilers.scala:227)
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$1$adapted(Compilers.scala:227)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.Compilers.didCompile(Compilers.scala:227)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$updateWorkspaceDirectory$10(MetalsLanguageServer.scala:407)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$updateWorkspaceDirectory$10$adapted(MetalsLanguageServer.scala:405)
+	at scala.meta.internal.metals.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$2(ForwardingMetalsBuildClient.scala:172)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$1(ForwardingMetalsBuildClient.scala:169)
+	at scala.meta.internal.metals.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$1$adapted(ForwardingMetalsBuildClient.scala:168)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.ForwardingMetalsBuildClient.buildTaskFinish(ForwardingMetalsBuildClient.scala:168)
+	... 16 more
+
+[0m2021.12.20 14:32:08 INFO  compiling root (1 scala source)[0m
+[0m2021.12.20 14:32:08 INFO  time: compiled root in 0.69s[0m

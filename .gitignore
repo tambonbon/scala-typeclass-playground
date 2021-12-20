@@ -2,3 +2,6 @@ target/
 /bloop
 /vscode
 .metals
+.metals/metals.h2.db
+.metals/metals.lock.db
+.metals/metals.log

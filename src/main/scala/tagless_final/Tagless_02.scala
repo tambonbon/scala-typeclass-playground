@@ -5,6 +5,7 @@ import cats.data.State
 import cats.Monad
 import cats.implicits._
 
+// https://www.baeldung.com/scala/tagless-final-pattern
 object Tagless_02 {
 
   case class Product(id: String, descr: String)
