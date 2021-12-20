@@ -1,7 +1,10 @@
 package tagless_final
 
 import cats.Monad
+import cats.effect.IO
+import cats.implicits._
 
+// https://degoes.net/articles/tagless-horror
 object Tagless_01 {
 
   /** Tagless-final involves creating typeclasses.. .. which describe
@@ -18,15 +21,5 @@ object Tagless_01 {
   def consoleProgram[F[_]: Console]: F[Unit] =
     implicitly[Console[F]].putStrLn("Hello World!")
 
-  def consoleProgram[F[_]: Console: Monad]: F[String] = {
-    val console = implicitly[Console[F]]
-
-    import console._
-
-    for {
-      _ <- putStrLn("What is your name?")
-      name <- getStrLn
-      _ <- putStrLn(s"Hello, $name, good to meet you!")
-    } yield name
-  }
+  // val ioProgram = consoleProgram[IO]
 }

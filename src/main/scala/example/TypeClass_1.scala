@@ -71,9 +71,12 @@ object TypeClass_1 extends AnyFlatSpec with Matchers {
      * 2. Preceding argument `eq: Eq[A]` with `implicit` ----> trigger suggestion to look for object to type `Eq[A]` in implicit scope
     */
 
+    import TypeClass_3_ContextBound._
     def main(args: Array[String]): Unit = {
         pairEquals(2,3) mustBe(None)
         pairEquals(2,2) mustBe(Some(2,2))
+
+        pairEqualsImplicitly(2,3) mustBe(None)
         // pairEquals(2, 7.2) mustBe(None)
     }
 
