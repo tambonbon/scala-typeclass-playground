@@ -3,6 +3,7 @@ package example
 import org.scalatest.flatspec.AnyFlatSpec
 import org.scalatest.matchers.must.Matchers
 
+// https://medium.com/virtuslab/typeclasses-scala-be35c0ef0ee9
 object TypeClass_1 extends AnyFlatSpec with Matchers {
   
     /**
